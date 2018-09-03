@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		6D6F52A5213D305D00BCC223 /* MIBack.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6D6F52A4213D305D00BCC223 /* MIBack.swift */; };
 		6DBC18DB213CEF4B00EEE706 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC18DA213CEF4B00EEE706 /* AppDelegate.swift */; };
 		6DBC18DD213CEF4B00EEE706 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 6DBC18DC213CEF4B00EEE706 /* ViewController.swift */; };
 		6DBC18E0213CEF4B00EEE706 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 6DBC18DE213CEF4B00EEE706 /* Main.storyboard */; };
@@ -15,6 +16,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		6D6F52A4213D305D00BCC223 /* MIBack.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MIBack.swift; sourceTree = "<group>"; };
 		6DBC18D7213CEF4B00EEE706 /* MiBack.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = MiBack.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		6DBC18DA213CEF4B00EEE706 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		6DBC18DC213CEF4B00EEE706 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -60,6 +62,7 @@
 				6DBC18E1213CEF4C00EEE706 /* Assets.xcassets */,
 				6DBC18E3213CEF4C00EEE706 /* LaunchScreen.storyboard */,
 				6DBC18E6213CEF4C00EEE706 /* Info.plist */,
+				6D6F52A4213D305D00BCC223 /* MIBack.swift */,
 			);
 			path = MiBack;
 			sourceTree = "<group>";
@@ -137,6 +140,7 @@
 			files = (
 				6DBC18DD213CEF4B00EEE706 /* ViewController.swift in Sources */,
 				6DBC18DB213CEF4B00EEE706 /* AppDelegate.swift in Sources */,
+				6D6F52A5213D305D00BCC223 /* MIBack.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
